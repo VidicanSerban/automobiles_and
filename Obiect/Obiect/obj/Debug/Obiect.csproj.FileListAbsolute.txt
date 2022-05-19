@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\bin\Debug\Obiect.exe.config
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\bin\Debug\Obiect.exe
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\bin\Debug\Obiect.pdb
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\bin\Debug\entitti.dll
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\bin\Debug\entitti.pdb
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\obj\Debug\Obiect.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\obj\Debug\Obiect.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\obj\Debug\Obiect.csproj.CopyComplete
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\obj\Debug\Obiect.exe
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\Obiect\obj\Debug\Obiect.pdb

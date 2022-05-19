@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\entitti\bin\Debug\entitti.dll
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\entitti\bin\Debug\entitti.pdb
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\entitti\obj\Debug\entitati.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\entitti\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\entitti\obj\Debug\entitti.dll
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Obiect\entitti\obj\Debug\entitti.pdb
